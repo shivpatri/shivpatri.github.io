@@ -28,14 +28,14 @@ url: "https://shivpatri.github.io/" # the base hostname & protocol for your site
 # your social media links etc
 #######################################################################
 
-heading: The Monologue
+heading: The Monologue.
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: My Internal Thoughts and Feelings
+  name: My Thoughts & Intuition.
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
@@ -45,7 +45,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An attempt to rationalize my overthinking.
+  name: An attempt to rationalize overthinking.
 copyright: 
   year: 2020
   msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
