@@ -56,14 +56,14 @@ user:
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
   name: Shivakshit Patri
-  bio: Student ∪ Writer. Interested in constraints and correspondences.
+  bio: Student ∪ Writer.
   email: shivakshit@gmail.com
-  photo: /assets/img/profile.png
-  alt_link: rgvr.me
+  photo: /assets/img/profile.jpg
+  alt_link: www.linkedin.com/in/spatri
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
     enabled: false  # turn this to true
-    twitter: rgvrme
+    twitter: ShivakshitP
     github: shivpatri
     youtube: null 
     linkedin: spatri  
