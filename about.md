@@ -5,11 +5,11 @@ permalink: /about/
 content-type: eg
 ---
 
-<div colspan="2" align="center"> <img src="/assets/img/profile.jpg" width="50%" height="auto"> </div>
-<div>
+<div align="center"> <img src="/assets/img/profile.jpg" width="50%" height="auto"> </div>
+<div align="center">
   <table align="center">
     <tr>
-      <td colspan="2" align="center"><strong>Born</strong></td>
+      <td colspan="2" style="text-align: center;"><strong>Born</strong></td>
     </tr>
     <tr>
       <td><strong>Birth Date</strong></td>
@@ -66,6 +66,7 @@ content-type: eg
     </tr>
   </table>
 </div>
+
 - I am a software engineer and a writer interested in the interplay between thoughts and constraints, the duality of interpretations and representations, and the nature of abstractions and correspondence between them. 
 
 - I am a long-time practitioner of Vipassana, but I am also a fallibilist with a slight objectivist bent. So I probably have a very different view of meditation than most people. We can talk about it if you want to.
