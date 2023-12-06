@@ -7,7 +7,9 @@ content-type: eg
 # Shivakshit Patri
 
 <table align="center">
-  <tr> <img src=/assets/img/profile.jpg width=50% height=auto align="center"></tr>
+  <tr> 
+    <td colspan="2" align="center"> <img align="" src=/assets/img/profile.jpg width=30% height=auto> </img> </td>
+  </tr>
   <tr>
     <td colspan="2" align="center"><strong>Born</strong></td>
   </tr>
