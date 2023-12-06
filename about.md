@@ -20,35 +20,35 @@ content-type: eg
       <td>City, Country</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Education</strong></td>
+      <td colspan="2" style="text-align: center"><strong>Education</strong></td>
     </tr>
     <tr>
       <td><strong>University</strong></td>
       <td>University of Example (B.A. in Example)</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Occupation</strong></td>
+      <td colspan="2" style="text-align: center"><strong>Occupation</strong></td>
     </tr>
     <tr>
       <td><strong>Occupation</strong></td>
       <td>Occupation(s)</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Years Active</strong></td>
+      <td colspan="2" style="text-align: center"><strong>Years Active</strong></td>
     </tr>
     <tr>
       <td><strong>Years Active</strong></td>
       <td>Years active</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Notable Works</strong></td>
+      <td colspan="2" style="text-align: center"><strong>Notable Works</strong></td>
     </tr>
     <tr>
       <td><strong>Notable Works</strong></td>
       <td>Notable works</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Personal Life</strong></td>
+      <td colspan="2" style="text-align: center"><strong>Personal Life</strong></td>
     </tr>
     <tr>
       <td><strong>Spouse</strong></td>
@@ -59,10 +59,10 @@ content-type: eg
       <td>Alice Doe, Bob Doe</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Website</strong></td>
+      <td colspan="2" style="text-align: center"><strong>Website</strong></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><a href="https://www.example.com">Official Website</a></td>
+      <td colspan="2" style="text-align: center"><a href="https://www.example.com">Official Website</a></td>
     </tr>
   </table>
 </div>
