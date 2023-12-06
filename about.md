@@ -5,10 +5,8 @@ permalink: /about/
 content-type: eg
 ---
 
+<div colspan="2" align="center"> <img src="/assets/img/profile.jpg" width=30% height=auto> </img> </div>
 <table align="center">
-  <tr> 
-    <td colspan="2" align="center"> <img align="" src="/assets/img/profile.jpg" width=30% height=auto> </img> </td>
-  </tr>
   <tr>
     <td colspan="2" align="center"><strong>Born</strong></td>
   </tr>
