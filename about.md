@@ -6,6 +6,7 @@ content-type: eg
 ---
 
 <div align="center"> <img src="/assets/img/profile.jpg" width="50%" height="auto"> </div>
+
 <div align="center">
   <table align="center">
     <tr>
@@ -40,5 +41,3 @@ content-type: eg
       <td><strong>Email</strong></td>
       <td>shivakshit22@gmail.com</td>
     </tr>
-  </table>
-</div>
