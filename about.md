@@ -5,8 +5,9 @@ permalink: /about/
 content-type: eg
 ---
 # Shivakshit Patri
-<table>
-  <tr> <img src=/assets/img/profile.jpg width=50% height=auto></tr>
+
+<table align="center">
+  <tr> <img src=/assets/img/profile.jpg width=50% height=auto align="center"></tr>
   <tr>
     <td colspan="2" align="center"><strong>Born</strong></td>
   </tr>
@@ -67,7 +68,7 @@ content-type: eg
 
 - I am a software engineer and a writer interested in the interplay between thoughts and constraints, the duality of interpretations and representations, and the nature of abstractions and correspondence between them. 
 
-- I am a long time practioner of Vipassana, but I am also a fallibilist with a slight objectivist bent. So I probably have a very different view of meditation than most people. We can talk about it if you want to.
+- I am a long-time practitioner of Vipassana, but I am also a fallibilist with a slight objectivist bent. So I probably have a very different view of meditation than most people. We can talk about it if you want to.
 
 - On this website I write articles about [[Computer Science::/tags/#Software]], [[Philosophy::/tags/#Philosophy]], Mathematics, and [[Generic Life Stuff::/tags/#General]]. Sometimes I also [[review::/tags/#Review]] books that I've read. You can find my programming side-projects on [[github::https://www.github.com/rgvr]]
 
