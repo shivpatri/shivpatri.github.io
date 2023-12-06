@@ -20,24 +20,6 @@ content-type: eg
       <td>Secunderabad, India</td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: center"><strong>Education</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Bachelor's</strong></td>
-      <td>Birla Institute of Technology & Science, Pilani (B.E. in Electronics & Communication Engineering)</td>
-    </tr>
-    <tr>
-      <td><strong>Master's</strong></td>
-      <td>Arizona State University (M.S. in Computer Engineering)</td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center"><strong>Work Experience</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Occupation(s)</strong></td>
-      <td>Software Developer (Amazon), Application Engineer (Synopsys), Analog Design Intern (Intel)</td>
-    </tr>
-    <tr>
       <td colspan="2" style="text-align: center"><strong>Interests</strong></td>
     </tr>
     <tr>
@@ -46,7 +28,7 @@ content-type: eg
     </tr>
     <tr>
       <td><strong>Hobbies</strong></td>
-      <td>Dance, Writing, Video Games</td>
+      <td>Dance, Writing, Video Games, Movies</td>
     <tr>
       <td colspan="2" style="text-align: center"><strong>Social</strong></td>
     </tr>
