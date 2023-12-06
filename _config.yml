@@ -45,7 +45,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An attempt to rationalize overthinking.
+  name: An attempt to rationalize the irrational.
 copyright: 
   year: 2020
   msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
