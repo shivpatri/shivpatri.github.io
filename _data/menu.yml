@@ -1,6 +1,8 @@
 - title: About
   url: /about.html
-- title: Developer
-  url: https://www.linkedin.com/in/shivpatri/
+- title: Projects
+  url: /projects.html
+- title: Linkedin
+  url: https://www.linkedin.com/in/spatri/
 - title: Github
   url: https://github.com/shivpatri
