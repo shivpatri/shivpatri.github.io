@@ -14,9 +14,9 @@
     </div>
     <span class="post-date">
       {% if post.category %}
-        <span class="post-category">[{{ post.category }}]</span>
+        <span class="post-category">{{ post.category }}</span>
       {% elsif post.categories %}
-        <span class="post-category">[{{ post.categories | join: ", " }}]</span>
+        <span class="post-category">{{ post.categories | join: ", " }}</span>
       {% endif %}
       {{ post.date | date: "%b %-d, '%y" }}
     </span>
