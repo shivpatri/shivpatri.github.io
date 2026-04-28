@@ -3,15 +3,15 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
-
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+<figure style="text-align: center;">
+  <img alt="Dante Alighieri" title="Lost in the Dark Forest" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Dante_Alighieri_-_La_Divina_Commedia_Canto_I.jpg" style="display: block; margin: 0 auto; max-width: 100%;" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    "Lost in the dark forest, before entering hell", by Gustave Doré. The opening scene from Dante Alighieri's Inferno Canto I.
   </figcaption>
 </figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+In *The Republic*, Plato said, "Those who tell stories rule the world." On the other hand, the Jungian thought teaches us that everyone is a world unto oneself. If both the statements are true, then it is imperative that one has to get in the habit of telling themselves stories to be their own master. These stories ought to be original thought, as the alternative makes us mere imitators and the stories, echoes of someone else's will.
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+But how can I ensure if my current beliefs are my own? A little socratic dialogue with myself seemed to suggest that actually none of my beliefs are actually mine. The conclusion was so overwhelming, I felt absolutely lost.
+
+So, I started writing my thoughts down to get a closer look. This place is a one such culmination of thoughts on philosophy, books, relationships, life and everything in between. And because of the premise of my investigations, I cannot claim that everything I say here are actually mine.
