@@ -28,6 +28,16 @@
         margin-right: 0.5em;
         vertical-align: middle;
       }
+      .post-list .post-date,
+      .post-list .post-meta time {
+        font-size: 0;
+        display: inline-flex;
+        align-items: center;
+        vertical-align: middle;
+      }
+      .post-list .post-category {
+        font-size: 12px;
+      }
     </style>
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
