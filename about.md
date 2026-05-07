@@ -4,20 +4,20 @@ title: About
 author: Shiv Patri
 ---
 
-In the [*Republic*](https://en.wikipedia.org/wiki/Republic_(Plato)), Plato said, "Those who tell stories rule the world." On the other hand, [the Jungian thought](https://en.wikipedia.org/wiki/Analytical_psychology) teaches us that everyone is a world unto themselves. If both statements are true, then to be our own master, we must consciously and deliberately tell our own stories. These stories ought to be original; the alternative makes us mere imitators, and our stories just echoes of someone else's will.
-
-I've noticed a strange pattern: the narratives I believed in the past often seem irrelevant in the present. For example, in middle school, I believed the sole purpose of life was to achieve something so great that the masses would remember you long after your death. And anyone who didn't appear in a school textbook like Albert Einstein, Mahatma Gandhi, and William Shakespeare, had failed in life. Thankfully, I no longer hold this belief.
-
-Upon deep introspection, I often find that many of my past beliefs were borrowed. They might have stemmed from a charismatic friend, an eloquent speaker, a well-written book, or a moving scene in a film. Seldom did my opinions actually stem from my own experiences.
-
-Yet, I still feel a similar certainty about my current beliefs. I always feel that my present convictions are truly mine and unequivocally true. This phenomenon begs an important question: How do I ensure that the narratives I believe today are actually original and immutable?
-
 <figure style="text-align: center;">
   <img alt="Dante Alighieri" title="Lost in the Dark Forest" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Dante_Alighieri_-_La_Divina_Commedia_Canto_I.jpg" style="display: block; margin: 0 auto; max-width: 100%;" />
   <figcaption>
     "Dante lost in the dark forest", by Gustave Doré. The opening scene from Dante Alighieri's Inferno Canto I.
   </figcaption>
 </figure>
+
+In the [*Republic*](https://en.wikipedia.org/wiki/Republic_(Plato)), Plato said, "Those who tell stories rule the world." On the other hand, [the Jungian thought](https://en.wikipedia.org/wiki/Analytical_psychology) teaches us that everyone is a world unto themselves. If both statements are true, then to be our own master, we must consciously and deliberately tell ourselves our own stories. These stories ought to be original; the alternative makes us mere imitators, and our stories just echoes of someone else's will.
+
+I've noticed a strange pattern: the narratives I believed in the past often seem irrelevant in the present. For example, in middle school, I believed the sole purpose of life was to achieve something so great that the masses would remember you long after your death. And anyone who didn't appear in a school textbook like Albert Einstein, Mahatma Gandhi, and William Shakespeare, had failed in life. Thankfully, I no longer hold this belief.
+
+Upon deep introspection, I often find that many of my past beliefs were borrowed. They might have stemmed from a charismatic friend, an eloquent speaker, a well-written book, or a moving scene in a film. Seldom did my opinions actually stem from my own experiences.
+
+Yet, I still feel a similar certainty about my current beliefs. I always feel that my present convictions are truly mine and unequivocally true. This phenomenon begs an important question: How do I ensure that the narratives I believe today are actually original and immutable?
 
 This realization was deeply disorienting for two reasons. First, I could no longer trust my instincts, having realized that my framework of right and wrong was never truly mine. Second, I found that my understanding of basic words like "belief," "faith," "knowledge," and "reality" was fundamentally flawed. I wondered how much of my everyday speech conveyed what I actually meant. How lost I felt can best be described in Dante's words from *[Inferno](https://en.wikipedia.org/wiki/Inferno_(Dante)) Canto I*:
 
