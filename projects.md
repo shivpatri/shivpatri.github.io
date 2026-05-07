@@ -3,5 +3,108 @@ layout: page
 title: Projects
 ---
 
-This is the Projects page. 
-You can add your project descriptions, links, and images here using standard Markdown!
+Here are some of the projects I have been working on.
+
+<style>
+  .project-card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    background-color: #ffffff;
+    transition: background-color 0.2s ease;
+  }
+  .project-card:hover {
+    background-color: #f9fafb;
+  }
+  .project-thumbnail {
+    flex: 0 0 140px;
+    max-width: 140px;
+    margin-right: 1.25rem;
+  }
+  .project-thumbnail img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1.414;
+    border-radius: 4px;
+    object-fit: cover;
+    border: 1px solid #f1f1f1;
+  }
+  .project-info {
+    flex: 2 1 300px;
+  }
+  .project-info h3 {
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+  }
+  .project-meta {
+    font-size: 0.8em;
+    color: #6b7280;
+    margin-bottom: 0.5rem;
+  }
+  .project-info p {
+    margin-bottom: 0.75rem;
+    font-size: 0.85em;
+    color: #555;
+    line-height: 1.35;
+  }
+  .project-badges {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  .project-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    background-color: #f3f4f6;
+    color: #24292e !important;
+    text-decoration: none !important;
+    border-radius: 5px;
+    font-size: 0.8em;
+    border: 1px solid #d1d5db;
+    font-weight: 500;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+  }
+  .project-badge:hover {
+    background-color: #e5e7eb;
+    border-color: #9ca3af;
+  }
+</style>
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=250&h=150&fit=crop" alt="Project 1">
+  </div>
+  <div class="project-info">
+    <h3>Computer Vision Pipeline</h3>
+    <div class="project-meta">🗓 Aug 2022 - Dec 2022 | 📍 University of XYZ</div>
+    <p>A brief description of your project goes here. Explain the core functionality, the technologies and frameworks used (e.g., PyTorch, OpenCV), and the problem it solves. Inspired by the layout seen on Papers with Code.</p>
+    <div class="project-badges">
+      <a href="#" class="project-badge">▶ Demo</a>
+      <a href="#" class="project-badge">📄 Documentation</a>
+      <a href="#" class="project-badge">💻 Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=250&h=150&fit=crop" alt="Project 2">
+  </div>
+  <div class="project-info">
+    <h3>Natural Language Processing Model</h3>
+    <div class="project-meta">🗓 Jan 2023 - May 2023 | 📍 Remote</div>
+    <p>This project features a transformer-based language model trained to summarize dense technical documentation. It utilizes HuggingFace's transformers library and is deployed as a lightweight API.</p>
+    <div class="project-badges">
+      <a href="#" class="project-badge">▶ Demo</a>
+      <a href="#" class="project-badge">📄 Documentation</a>
+      <a href="#" class="project-badge">💻 Code</a>
+    </div>
+  </div>
+</div>
