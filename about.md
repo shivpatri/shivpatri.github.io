@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+author: Shiv Patri
 ---
 
 <figure style="text-align: center;">
@@ -12,8 +13,6 @@ title: About
 
 In the [*Republic*](https://en.wikipedia.org/wiki/Republic_(Plato)), Plato said, "Those who tell stories rule the world." On the other hand, the [Jungian thought](https://en.wikipedia.org/wiki/Analytical_psychology) teaches us that everyone is a world unto oneself. If both the statements are true, then it is imperative that one has to get in the habit of consciously and deliberately telling themselves stories to be their own master. These stories ought to be original thought though, as the alternative makes us mere imitators and the stories, echoes of someone else's will.
 
-A strange thing I always notice about myself is that the narratives I believed a year ago seem absolutely irrelevant now. I now see that most of the past beliefs were actually borrowed from a close friend or a relatable book or an influencer I believed to be legit at that point in my life. But strangely I never feel like that about current beliefs. This raises two important questions: How do I ensure that the narratives I believe are immutable and original? 
+A strange thing I always notice about myself is that the narratives I believed a year ago seem absolutely irrelevant now. I now see that most of the past beliefs were actually borrowed from a close friend or a relatable book or an influencer I believed to be legit at that point in my life. But strangely I never feel like that about current beliefs. This raises an important question: How do I ensure that the narratives I believe are immutable and original?
 
 So, I started writing my thoughts down to get a closer look. This place is one such culmination of my thoughts on science, art, philosophy, books, relationships, life and everything in between. I hope this work will be a constant reminder that the only thing constant is change. And if anything holds to be always true, that will be the thing I can safely hold on to.
-
---- Shiv Patri
