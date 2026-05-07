@@ -11,11 +11,15 @@ author: Shiv Patri
   </figcaption>
 </figure>
 
-In the [*Republic*](https://en.wikipedia.org/wiki/Republic_(Plato)), Plato said, "Those who tell stories rule the world." On the other hand, the [Jungian thought](https://en.wikipedia.org/wiki/Analytical_psychology) teaches us that everyone is a world unto oneself. If both the statements are true, then it is imperative that one has to get in the habit of consciously and deliberately telling themselves stories to be their own master. And these stories are ought to be original thought though, as the alternative makes us, mere imitators and the stories, echoes of someone else's will.
+In the [*Republic*](https://en.wikipedia.org/wiki/Republic_(Plato)), Plato said, "Those who tell stories rule the world." On the other hand, [Jungian psychology](https://en.wikipedia.org/wiki/Analytical_psychology) teaches us that everyone is a world unto themselves. If both statements are true, then to be our own master, we must consciously and deliberately tell our own stories. These stories ought to be original; the alternative makes us mere imitators, and our stories just echoes of someone else's will.
 
-A strange thing I notice is that the narratives I believed in the past always seem irrelevant in the present. Upon deep introspection, I will also find that the past beliefs were often borrowed from someone else. But never do I feel so about the current beliefs. I always feel with utmost certainity that my beliefs in the present are truly mine and always true. This phenomenon begs an important question: How do I ensure that the narratives I currently believe are actually immutable and original?
+I've noticed a strange pattern: the narratives I believed in the past often seem irrelevant in the present. For example, in middle school, I believed the sole purpose of life was to achieve something so great that the masses would remember you long after your death. And anyone who didn't appear in a school textbook like Albert Einstein, Mahatma Gandhi, and William Shakespeare, had failed in life. Thankfully, I no longer hold this belief.
 
-This revelation was very disorienting for me for two reasons. Firstly, I could no longer trust my instincts as I just learnt that my framework of right and wrong was never mine. Secondly, I found that my understanding of many words like "belief", "faith", "knowledge" and "reality" were fundamentally wrong. I wondered how much of my everyday speech actually conveys what I mean. How lost I felt could best be described in the following words:
+Upon deep introspection, I often find that many of my past beliefs were borrowed. They might have stemmed from a charismatic friend, an eloquent speaker, a well-written book, or a moving scene in a film. Seldom did my opinions actually stem from my own experiences.
+
+Yet, I still feel a similar certainty about my current beliefs. I always feel that my present convictions are truly mine and unequivocally true. This phenomenon begs an important question: How do I ensure that the narratives I believe today are actually original and immutable?
+
+This realization was deeply disorienting for two reasons. First, I could no longer trust my instincts, having realized that my framework of right and wrong was never truly mine. Second, I found that my understanding of foundational concepts like "belief," "faith," "knowledge," and "reality" was flawed. I wondered how much of my everyday speech conveyed what I actually meant. How lost I felt can best be described in Dante's words:
 
 <div style="background-color: #f7f7f7; border-radius: 12px; padding: 25px; margin: 2rem 0; font-family: 'Old English Text MT', 'Engravers Old English', 'Cloister Black', 'Parchment', 'Luminari', cursive; font-size: 0.75em; line-height: 1.6; color: #333;">
   When I had journeyed half of our life’s way,<br>
@@ -38,4 +42,4 @@ This revelation was very disorienting for me for two reasons. Firstly, I could n
 </div>
 
 
-So, I started putting my thoughts down on paper to get a closer look. This place is one such culmination of my thoughts on science, art, philosophy, books, relationships, life and everything else. I hope this work will be a constant reminder that the only thing constant is change. And if anything holds to be always true, that will be the thing I can safely hold on to.
+So, I began putting my thoughts down on paper to examine them more closely. This space is a culmination of my reflections on science, art, philosophy, books, relationships, and life itself. I hope this work serves as a constant reminder that the only constant is change. And if anything proves to be always true, that will be the one thing I can safely hold on to.
