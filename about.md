@@ -11,7 +11,7 @@ author: Shiv Patri
   </figcaption>
 </figure>
 
-In the [*Republic*](https://en.wikipedia.org/wiki/Republic_(Plato)), Plato said, "Those who tell stories rule the world." On the other hand, [Jungian psychology](https://en.wikipedia.org/wiki/Analytical_psychology) teaches us that everyone is a world unto themselves. If both statements are true, then to be our own master, we must consciously and deliberately tell our own stories. These stories ought to be original; the alternative makes us mere imitators, and our stories just echoes of someone else's will.
+In the [*Republic*](https://en.wikipedia.org/wiki/Republic_(Plato)), Plato said, "Those who tell stories rule the world." On the other hand, [the Jungian thought](https://en.wikipedia.org/wiki/Analytical_psychology) teaches us that everyone is a world unto themselves. If both statements are true, then to be our own master, we must consciously and deliberately tell our own stories. These stories ought to be original; the alternative makes us mere imitators, and our stories just echoes of someone else's will.
 
 I've noticed a strange pattern: the narratives I believed in the past often seem irrelevant in the present. For example, in middle school, I believed the sole purpose of life was to achieve something so great that the masses would remember you long after your death. And anyone who didn't appear in a school textbook like Albert Einstein, Mahatma Gandhi, and William Shakespeare, had failed in life. Thankfully, I no longer hold this belief.
 
@@ -19,7 +19,7 @@ Upon deep introspection, I often find that many of my past beliefs were borrowed
 
 Yet, I still feel a similar certainty about my current beliefs. I always feel that my present convictions are truly mine and unequivocally true. This phenomenon begs an important question: How do I ensure that the narratives I believe today are actually original and immutable?
 
-This realization was deeply disorienting for two reasons. First, I could no longer trust my instincts, having realized that my framework of right and wrong was never truly mine. Second, I found that my understanding of foundational concepts like "belief," "faith," "knowledge," and "reality" was flawed. I wondered how much of my everyday speech conveyed what I actually meant. How lost I felt can best be described in Dante's words:
+This realization was deeply disorienting for two reasons. First, I could no longer trust my instincts, having realized that my framework of right and wrong was never truly mine. Second, I found that my understanding of foundational concepts like "belief," "faith," "knowledge," and "reality" was flawed. I wondered how much of my everyday speech conveyed what I actually meant. How lost I felt can best be described in Dante's words from *[Inferno](https://en.wikipedia.org/wiki/Inferno_(Dante)) Canto I*:
 
 <div style="background-color: #f7f7f7; border-radius: 12px; padding: 25px; margin: 2rem 0; font-family: 'Old English Text MT', 'Engravers Old English', 'Cloister Black', 'Parchment', 'Luminari', cursive; font-size: 0.75em; line-height: 1.6; color: #333;">
   When I had journeyed half of our life’s way,<br>
