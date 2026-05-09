@@ -2,9 +2,6 @@
 layout: page
 title: Projects
 ---
-
-Here are some of the projects I have been working on.
-
 <style>
   .project-card {
     display: flex;
@@ -67,6 +64,23 @@ Here are some of the projects I have been working on.
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  .project-tags {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+  }
+  .project-tag {
+    padding: 2px 6px;
+    background-color: #e0e7ff;
+    color: #3730a3;
+    border-radius: 4px;
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
   .project-badges {
     display: flex;
     gap: 6px;
@@ -91,16 +105,39 @@ Here are some of the projects I have been working on.
     background-color: #e5e7eb;
     border-color: #9ca3af;
   }
+  h2 {
+    font-size: 1.25rem !important;
+    text-align: left !important;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 0.5rem;
+    margin-top: 2.5rem !important;
+    margin-bottom: 1rem !important;
+  }
+  .section-description {
+    font-size: 0.9rem;
+    color: #555;
+    margin-bottom: 1.5rem;
+  }
 </style>
+
+## Algorithms
+
+## Image Processing
+
+<p class="section-description">I was a little late to the deep learning party, so I did these feature engineering projects on my way.</p>
 
 <div class="project-card">
   <div class="project-thumbnail">
     <img src="{{ '/_assets/images/projects/d_4065_1-left_cc-e1506943826655.png' | relative_url }}" alt="Breast Lesion Contours">
   </div>
   <div class="project-info">
-    <h3>Feature engineering for classifying lesions in mammograms.</h3>
-    <div class="project-meta"> Under Graduate Research | BITS Pilani</div>
-    <p>A new algorithm for feature extraction using polynomial regression on the signatures of benign and malignant contours. Built using MATLAB image processing & machine learning toolboxes.</p>
+    <h3>Feature engineering to classify lesions in mammograms.</h3>
+    <div class="project-meta"> Under Graduate Research | BITS Pilani | December 2014 </div>
+    <p>A novel technique using simple polynomial regression on lesion contour signatures to classify mammograms into benign and malignant classes.</p>
+    <div class="project-tags">
+      <span class="project-tag">MATLAB</span>
+      <span class="project-tag">Image Procesing</span>
+    </div>
     <div class="project-badges">
       <a href="http://ieeexplore.ieee.org/document/7150808/" class="project-badge">📄 Publication</a>
       <a href="https://github.com/shivakshit/BenignMalignantClassification" class="project-badge">💻 Code</a>
@@ -114,8 +151,12 @@ Here are some of the projects I have been working on.
   </div>
   <div class="project-info">
     <h3> Counting plastic pipes.</h3>
-    <div class="project-meta"> Summer Internship | Supreme Industries</div>
-    <p>Software written in MATLAB that applies image segmentation & Hough's circle transform to count the number of circular pipes in an image. Includes a UI for image upload and visualization.</p>
+    <div class="project-meta"> Summer Internship | Supreme Industries | May 2014 </div>
+    <p> A count of circular pipes in an image is calculated using Image Segmentation and Hough's circle transform.</p>
+    <div class="project-tags">
+      <span class="project-tag">MATLAB</span>
+      <span class="project-tag">Image Processing</span>
+    </div>
     <div class="project-badges">
       <a href="{{ '/_assets/docs/projects/project-2.docx' | relative_url }}" class="project-badge">📄 Documentation</a>
       <a href="https://github.com/shivakshit/supremeProject" class="project-badge">💻 Code</a>
@@ -128,23 +169,36 @@ Here are some of the projects I have been working on.
     <img src="{{ '/_assets/images/projects/acdc.png' | relative_url }}" alt="ACDC Measurement Device">
   </div>
   <div class="project-info">
-    <h3> A 3D printed, raspberry pi based imaging device to detect Glaucoma.</h3>
-    <div class="project-meta">📍 Team Lead | LVPEI Engineering the Eye Hackathon</div>
-    <p>A 3-D printed prototype that measures the ratio between the Anterior Chamber Depth and Corneal thickness. Built using Raspberry Pi, Pi Camera, Flask, and OpenCV.</p>
+    <h3> A medical imaging prototype to detect glaucoma.</h3>
+    <div class="project-meta"> 5th "Engineering the Eye" Hackathon | L.V Prasad Eye Institute | July 2017 </div>
+    <p>A 3-D printed optical setup with lenses and slits, a raspberry pi and a camera make for an portable eye imaging device that measures the ratio between the Anterior Chamber Depth and Corneal thickness. This metric is an estimate for intra-ocular pressure, an indicator of glaucoma.</p>
+    <div class="project-tags">
+      <span class="project-tag">Raspberry Pi</span>
+      <span class="project-tag">Python</span>
+      <span class="project-tag">OpenCV</span>
+    </div>
     <div class="project-badges">
       <a href="{{ '/_assets/docs/projects/final-project-documentation.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
     </div>
   </div>
 </div>
 
+## Analog Electronics
+
+<p class="section-description">My undergraduate major was Electronics & Communications, so I romanced with the field before finding my true love: AI and software engineering.</p>
+
 <div class="project-card">
   <div class="project-thumbnail">
     <img src="{{ '/_assets/images/projects/adc-e1506946445701.png' | relative_url }}" alt="Delta-Sigma ADC">
   </div>
   <div class="project-info">
-    <h3> An Analog to Digital Converter for Temperature Sensing</h3>
-    <div class="project-meta"> Internship | Intel Corporation, Bangalore</div>
-    <p>Architecture Definition and System level Design. Schematic Design of the entire Thermal Sensor IP in Cadence Virtuoso design environment using Analog-A/AMS modeled devices.</p>
+    <h3> An analog to digital converter for temperature sensing.</h3>
+    <div class="project-meta"> Internship | Intel, Bangalore | December 2015 </div>
+    <p>System-level schematic design of a Thermal Sensor IP with a sigma-delta ADC using behavioral Verilog-A/AMS models to ensure PDK independence and ease of porting.</p>
+    <div class="project-tags">
+      <span class="project-tag">Cadence Virtuoso</span>
+      <span class="project-tag">Verilog-A/AMS</span>
+    </div>
     <div class="project-badges">
       <a href="{{ '/_assets/docs/projects/document1.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
     </div>
@@ -156,9 +210,14 @@ Here are some of the projects I have been working on.
     <img src="{{ '/_assets/images/projects/opamp.png' | relative_url }}" alt="2-stage Operational Amplifier">
   </div>
   <div class="project-info">
-    <h3> A 14nm Operational Amplifier</h3>
-    <div class="project-meta"> Internship | Intel Corporation, Bangalore</div>
-    <p>Schematic design of a simple miller-compensated two stage operational amplifier using a 14nm PDK. Simulated and verified results across PVT corners in Cadence Spectre.</p>
+    <h3> A 14nm operational amplifier.</h3>
+    <div class="project-meta"> Internship | Intel, Bangalore | August 2015 </div>
+    <p>Schematic design of a simple two-stage operational amplifier using a 14nm Process Development Kit. Simulated and verified results across PVT corners.</p>
+    <div class="project-tags">
+      <span class="project-tag">Cadence Virtuoso</span>
+      <span class="project-tag">Cadence Spectre</span>
+      <span class="project-tag">14nm PDK</span>
+    </div>
     <div class="project-badges">
       <a href="{{ '/_assets/docs/projects/document.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
     </div>
