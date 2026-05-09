@@ -95,32 +95,73 @@ Here are some of the projects I have been working on.
 
 <div class="project-card">
   <div class="project-thumbnail">
-    <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=250&h=150&fit=crop" alt="Project 1">
+    <img src="{{ '/_assets/images/projects/d_4065_1-left_cc-e1506943826655.png' | relative_url }}" alt="Breast Lesion Contours">
   </div>
   <div class="project-info">
-    <h3>Computer Vision Pipeline</h3>
-    <div class="project-meta">🗓 Aug 2022 - Dec 2022 | 📍 University of XYZ</div>
-    <p>A brief description of your project goes here. Explain the core functionality, the technologies and frameworks used (e.g., PyTorch, OpenCV), and the problem it solves. Inspired by the layout seen on Papers with Code.</p>
+    <h3>Feature engineering for classifying lesions in mammograms.</h3>
+    <div class="project-meta">📍 Under Graduate Researcher | BITS Pilani</div>
+    <p>A new algorithm for feature extraction using polynomial regression on the signatures of benign and malignant contours. Built using MATLAB image processing & machine learning toolboxes.</p>
     <div class="project-badges">
-      <a href="#" class="project-badge">▶ Demo</a>
-      <a href="#" class="project-badge">📄 Documentation</a>
-      <a href="#" class="project-badge">💻 Code</a>
+      <a href="http://ieeexplore.ieee.org/document/7150808/" class="project-badge">📄 Publication</a>
+      <a href="https://github.com/shivakshit/BenignMalignantClassification" class="project-badge">💻 Code</a>
     </div>
   </div>
 </div>
 
 <div class="project-card">
   <div class="project-thumbnail">
-    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=250&h=150&fit=crop" alt="Project 2">
+    <img src="{{ '/_assets/images/projects/pipe.jpeg' | relative_url }}" alt="Circular Plastic Pipes">
   </div>
   <div class="project-info">
-    <h3>Natural Language Processing Model</h3>
-    <div class="project-meta">🗓 Jan 2023 - May 2023 | 📍 Remote</div>
-    <p>This project features a transformer-based language model trained to summarize dense technical documentation. It utilizes HuggingFace's transformers library and is deployed as a lightweight API.</p>
+    <h3> Counting plastic pipes.</h3>
+    <div class="project-meta">📍 Summer Intern | Supreme Industries</div>
+    <p>Software written in MATLAB that applies image segmentation & Hough's circle transform to count the number of circular pipes in an image. Includes a UI for image upload and visualization.</p>
     <div class="project-badges">
-      <a href="#" class="project-badge">▶ Demo</a>
-      <a href="#" class="project-badge">📄 Documentation</a>
-      <a href="#" class="project-badge">💻 Code</a>
+      <a href="{{ '/_assets/docs/projects/project-2.docx' | relative_url }}" class="project-badge">📄 Documentation</a>
+      <a href="https://github.com/shivakshit/supremeProject" class="project-badge">💻 Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="{{ '/_assets/images/projects/acdc.png' | relative_url }}" alt="ACDC Measurement Device">
+  </div>
+  <div class="project-info">
+    <h3> A 3D printed, raspberry pi based imaging device to detect Glaucoma.</h3>
+    <div class="project-meta">📍 Team Lead | LVPEI Engineering the Eye Hackathon</div>
+    <p>A 3-D printed prototype that measures the ratio between the Anterior Chamber Depth and Corneal thickness. Built using Raspberry Pi, Pi Camera, Flask, and OpenCV.</p>
+    <div class="project-badges">
+      <a href="{{ '/_assets/docs/projects/final-project-documentation.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
+      <a href="https://github.com/shivakshit/ACDC" class="project-badge">💻 Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="{{ '/_assets/images/projects/adc-e1506946445701.png' | relative_url }}" alt="Delta-Sigma ADC">
+  </div>
+  <div class="project-info">
+    <h3> An Analog to Digital Converter for Temperature Sensing</h3>
+    <div class="project-meta">📍 Circuit Design Intern | Intel Corporation, Bangalore</div>
+    <p>Architecture Definition and System level Design. Schematic Design of the entire Thermal Sensor IP in Cadence Virtuoso design environment using Analog-A/AMS modeled devices.</p>
+    <div class="project-badges">
+      <a href="{{ '/_assets/docs/projects/document1.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="{{ '/_assets/images/projects/opamp.png' | relative_url }}" alt="2-stage Operational Amplifier">
+  </div>
+  <div class="project-info">
+    <h3> A 14nm Operational Amplifier</h3>
+    <div class="project-meta">📍 Circuit Design Intern | Intel Corporation, Bangalore</div>
+    <p>Schematic design of a simple miller-compensated two stage operational amplifier using a 14nm PDK. Simulated and verified results across PVT corners in Cadence Spectre.</p>
+    <div class="project-badges">
+      <a href="{{ '/_assets/docs/projects/document.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
     </div>
   </div>
 </div>

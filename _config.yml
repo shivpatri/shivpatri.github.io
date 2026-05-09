@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Shivakshit Patri's blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shivpatri.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-512.png
+icon: /_assets/images/icon-512.png
 twitter_username: patdryburgh
 github_username:  shivpatri
 
@@ -47,3 +47,4 @@ plugins:
 
 paginate: 5
 paginate_path: "/page/:num/"
+include: ["_assets"]
