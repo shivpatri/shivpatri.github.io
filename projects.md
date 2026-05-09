@@ -99,7 +99,7 @@ Here are some of the projects I have been working on.
   </div>
   <div class="project-info">
     <h3>Feature engineering for classifying lesions in mammograms.</h3>
-    <div class="project-meta">📍 Under Graduate Researcher | BITS Pilani</div>
+    <div class="project-meta"> Under Graduate Research | BITS Pilani</div>
     <p>A new algorithm for feature extraction using polynomial regression on the signatures of benign and malignant contours. Built using MATLAB image processing & machine learning toolboxes.</p>
     <div class="project-badges">
       <a href="http://ieeexplore.ieee.org/document/7150808/" class="project-badge">📄 Publication</a>
@@ -114,7 +114,7 @@ Here are some of the projects I have been working on.
   </div>
   <div class="project-info">
     <h3> Counting plastic pipes.</h3>
-    <div class="project-meta">📍 Summer Intern | Supreme Industries</div>
+    <div class="project-meta"> Summer Internship | Supreme Industries</div>
     <p>Software written in MATLAB that applies image segmentation & Hough's circle transform to count the number of circular pipes in an image. Includes a UI for image upload and visualization.</p>
     <div class="project-badges">
       <a href="{{ '/_assets/docs/projects/project-2.docx' | relative_url }}" class="project-badge">📄 Documentation</a>
@@ -133,7 +133,6 @@ Here are some of the projects I have been working on.
     <p>A 3-D printed prototype that measures the ratio between the Anterior Chamber Depth and Corneal thickness. Built using Raspberry Pi, Pi Camera, Flask, and OpenCV.</p>
     <div class="project-badges">
       <a href="{{ '/_assets/docs/projects/final-project-documentation.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
-      <a href="https://github.com/shivakshit/ACDC" class="project-badge">💻 Code</a>
     </div>
   </div>
 </div>
@@ -144,7 +143,7 @@ Here are some of the projects I have been working on.
   </div>
   <div class="project-info">
     <h3> An Analog to Digital Converter for Temperature Sensing</h3>
-    <div class="project-meta">📍 Circuit Design Intern | Intel Corporation, Bangalore</div>
+    <div class="project-meta"> Internship | Intel Corporation, Bangalore</div>
     <p>Architecture Definition and System level Design. Schematic Design of the entire Thermal Sensor IP in Cadence Virtuoso design environment using Analog-A/AMS modeled devices.</p>
     <div class="project-badges">
       <a href="{{ '/_assets/docs/projects/document1.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
@@ -158,7 +157,7 @@ Here are some of the projects I have been working on.
   </div>
   <div class="project-info">
     <h3> A 14nm Operational Amplifier</h3>
-    <div class="project-meta">📍 Circuit Design Intern | Intel Corporation, Bangalore</div>
+    <div class="project-meta"> Internship | Intel Corporation, Bangalore</div>
     <p>Schematic design of a simple miller-compensated two stage operational amplifier using a 14nm PDK. Simulated and verified results across PVT corners in Cadence Spectre.</p>
     <div class="project-badges">
       <a href="{{ '/_assets/docs/projects/document.pdf' | relative_url }}" class="project-badge">📄 Documentation</a>
