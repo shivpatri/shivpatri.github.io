@@ -122,6 +122,43 @@ title: Projects
 
 ## Algorithms
 
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="https://github.com/shivpatri/bandish-bandits/blob/main/Bandits_files/bandits.JPG?raw=true" alt="Bandish Bandits">
+  </div>
+  <div class="project-info">
+    <h3>Analysis of UCB and Epsilon-Greedy algorithms for the multi-armed-bandit problem.</h3>
+    <div class="project-meta"> Graduate Research | Arizona State University | 2020 </div>
+    <p>I simulated these two algorithms on six bandits with varied reward distributions to understand the scenarios where one approach is superior to the other.</p>
+    <div class="project-tags">
+      <span class="project-tag">Python</span>
+      <span class="project-tag">Algorithms</span>
+    </div>
+    <div class="project-badges">
+      <a href="https://github.com/shivpatri/bandish-bandits" class="project-badge">💻 Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=250&h=150&fit=crop" alt="Graph ALP">
+  </div>
+  <div class="project-info">
+    <h3> A python library for graph sampling and label prediction. </h3>
+    <div class="project-meta"> Graduate Research | Arizona State University | 2021 </div>
+    <p>A collection of python implementations of state of the art parametric & non-parametric graph algorithms for efficient sampling and label prediction/propagation.</p>
+    <div class="project-tags">
+      <span class="project-tag">Python</span>
+      <span class="project-tag">Algorithms</span>
+      <span class="project-tag">Graphs</span>
+    </div>
+    <div class="project-badges">
+      <a href="https://github.com/shivpatri/graph-alp" class="project-badge">💻 Code</a>
+    </div>
+  </div>
+</div>
+
 ## Image Processing
 
 <p class="section-description">I was a little late to the deep learning party, so I did these feature engineering projects on my way.</p>
