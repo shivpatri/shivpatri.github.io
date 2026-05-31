@@ -120,7 +120,7 @@ title: Projects
   }
 </style>
 
-## Algorithms
+## Mathematics & Algorithms
 
 <div class="project-card">
   <div class="project-thumbnail">
@@ -154,7 +154,32 @@ title: Projects
       <span class="project-tag">Graphs</span>
     </div>
     <div class="project-badges">
+      <a href="https://shivpatri.github.io/graph-alp/" class="project-badge">🚀 Demo</a>
       <a href="https://github.com/shivpatri/graph-alp" class="project-badge">💻 Code</a>
+    </div>
+    
+  </div>
+</div>
+
+## Data Science
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="https://github.com/shivpatri/harry-plotter-and-the-cluster-of-posters/blob/main/pictures/postermosaic.png?raw=true" alt="Clustering Analysis of Movie Posters">
+  </div>
+  <div class="project-info">
+    <h3>Clustering Analysis of Movie Posters</h3>
+    <div class="project-meta"> Graduate Coursework | Arizona State University | 2021 </div>
+    <p>An analysis of various clustering algorithms on VGG-16 embeddings of movie posters. The project explores K-Means, DBSCAN, and Hierarchical clustering to group movies by their poster art and uses t-SNE for visualization.</p>
+    <div class="project-tags">
+      <span class="project-tag">Python</span>
+      <span class="project-tag">Data Science</span>
+      <span class="project-tag">Clustering</span>
+      <span class="project-tag">Deep Learning</span>
+    </div>
+    <div class="project-badges">
+      <a href="https://shivpatri.github.io/harry-plotter-and-the-cluster-of-posters/" class="project-badge">🚀 Demo</a>
+      <a href="https://github.com/shivpatri/harry-plotter-and-the-cluster-of-posters" class="project-badge">💻 Code</a>
     </div>
   </div>
 </div>
