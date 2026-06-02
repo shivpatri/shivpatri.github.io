@@ -142,7 +142,7 @@ title: Projects
 
 <div class="project-card">
   <div class="project-thumbnail">
-    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=250&h=150&fit=crop" alt="Graph ALP">
+    <img src="{{ '/_assets/images/projects/graph-alp.png' | relative_url }}" alt="Graph sampling and label prediction">
   </div>
   <div class="project-info">
     <h3> A python library for graph sampling and label prediction. </h3>
