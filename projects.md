@@ -156,7 +156,7 @@ title: Projects
     <div class="project-badges">
       <a href="https://shivpatri.github.io/graph-alp/" class="project-badge">🚀 Demo</a>
       <a href="https://github.com/shivpatri/graph-alp" class="project-badge">💻 Code</a>
-      <a href="https://shivpatri.github.io/graph-alp/" class="project-badge">📄 Documentation</a>
+      <a href="https://shivpatri.github.io/graph-alp/docs" class="project-badge">📄 Documentation</a>
     </div>
     
   </div>
