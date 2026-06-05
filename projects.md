@@ -120,7 +120,31 @@ title: Projects
   }
 </style>
 
-## Mathematics & Algorithms
+## Algorithms
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="{{ '/_assets/images/projects/graph-alp.png' | relative_url }}" alt="Graph sampling and label prediction">
+  </div>
+  <div class="project-info">
+    <h3> A python library for graph sampling and label prediction. </h3>
+    <div class="project-meta"> Graduate Research | Arizona State University | 2021 </div>
+    <p>A collection of python implementations of state of the art parametric & non-parametric graph algorithms for efficient sampling and label prediction/propagation.</p>
+    <div class="project-tags">
+      <span class="project-tag">Python</span>
+      <span class="project-tag">Algorithms</span>
+      <span class="project-tag">Graphs</span>
+    </div>
+    <div class="project-badges">
+      <a href="https://shivpatri.github.io/graph-alp/" class="project-badge">🚀 Demo</a>
+      <a href="https://github.com/shivpatri/graph-alp" class="project-badge">💻 Code</a>
+      <a href="https://shivpatri.github.io/graph-alp/docs" class="project-badge">📄 Documentation</a>
+    </div> 
+  </div>
+</div>
+
+
+# Mathematics
 
 <div class="project-card">
   <div class="project-thumbnail">
@@ -142,25 +166,22 @@ title: Projects
 
 <div class="project-card">
   <div class="project-thumbnail">
-    <img src="{{ '/_assets/images/projects/graph-alp.png' | relative_url }}" alt="Graph sampling and label prediction">
+    <img src="https://commons.wikimedia.org/wiki/Category:Dice#/media/File:Black_Polyhedral_Game_Dice.jpg" alt="Rolling in the Deep">
   </div>
   <div class="project-info">
-    <h3> A python library for graph sampling and label prediction. </h3>
-    <div class="project-meta"> Graduate Research | Arizona State University | 2021 </div>
-    <p>A collection of python implementations of state of the art parametric & non-parametric graph algorithms for efficient sampling and label prediction/propagation.</p>
+    <h3>A solution to a Jane Street Captial's Quant mock interview question</h3>
+    <div class="project-meta"> Graduate Research | Arizona State University | 2020 </div>
+    <p>I tested a dynamic programming approach and a heuristic approach on a dice based game.</p>
     <div class="project-tags">
-      <span class="project-tag">Python</span>
-      <span class="project-tag">Algorithms</span>
-      <span class="project-tag">Graphs</span>
+      <span class="project-tag">Probability</span>
+      <span class="project-tag">Dynamic Programming</span>
     </div>
     <div class="project-badges">
-      <a href="https://shivpatri.github.io/graph-alp/" class="project-badge">🚀 Demo</a>
-      <a href="https://github.com/shivpatri/graph-alp" class="project-badge">💻 Code</a>
-      <a href="https://shivpatri.github.io/graph-alp/docs" class="project-badge">📄 Documentation</a>
+      <a href="https://github.com/shivpatri/rolling-in-the-deep" class="project-badge">💻 Code</a>
     </div>
-    
   </div>
 </div>
+
 
 ## Data Science
 
@@ -186,8 +207,6 @@ title: Projects
 </div>
 
 ## Image Processing
-
-<p class="section-description">I was a little late to the deep learning party, so I did these feature engineering projects on my way.</p>
 
 <div class="project-card">
   <div class="project-thumbnail">
