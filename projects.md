@@ -120,7 +120,7 @@ title: Projects
   }
 </style>
 
-## Algorithms
+## Graph Theory
 
 <div class="project-card">
   <div class="project-thumbnail">
@@ -144,7 +144,7 @@ title: Projects
 </div>
 
 
-# Mathematics
+## Approximation Algorithms
 
 <div class="project-card">
   <div class="project-thumbnail">
@@ -246,6 +246,8 @@ title: Projects
   </div>
 </div>
 
+## Embedded Systems
+
 <div class="project-card">
   <div class="project-thumbnail">
     <img src="{{ '/_assets/images/projects/acdc.png' | relative_url }}" alt="ACDC Measurement Device">
@@ -265,7 +267,7 @@ title: Projects
   </div>
 </div>
 
-## Analog Electronics
+## Analog & Mixed Signal Design
 
 <p class="section-description">My undergraduate major was Electronics & Communications, so I romanced with the field before finding my true love: AI and software engineering.</p>
 
