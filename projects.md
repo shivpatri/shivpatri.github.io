@@ -166,7 +166,7 @@ title: Projects
 
 <div class="project-card">
   <div class="project-thumbnail">
-    <img src="https://commons.wikimedia.org/wiki/Category:Dice#/media/File:Black_Polyhedral_Game_Dice.jpg" alt="Rolling in the Deep">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/20-sided_die.jpg" alt="Rolling in the Deep">
   </div>
   <div class="project-info">
     <h3>A solution to a Jane Street Captial's Quant mock interview question</h3>
