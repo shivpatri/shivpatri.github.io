@@ -177,6 +177,7 @@ title: Projects
       <span class="project-tag">Dynamic Programming</span>
     </div>
     <div class="project-badges">
+      <a href="https://youtu.be/NT_I1MjckaU?t=62" class="project-badge">🏆 Challenge</a>
       <a href="https://github.com/shivpatri/rolling-in-the-deep" class="project-badge">💻 Code</a>
     </div>
   </div>
@@ -202,6 +203,7 @@ title: Projects
     <div class="project-badges">
       <a href="https://shivpatri.github.io/harry-plotter-and-the-cluster-of-posters/" class="project-badge">🚀 Demo</a>
       <a href="https://github.com/shivpatri/harry-plotter-and-the-cluster-of-posters" class="project-badge">💻 Code</a>
+      <a href="https://www.kaggle.com/datasets/aptlin/posterlens-25m" class="project-badge">🏆 Challenge</a>
     </div>
   </div>
 </div>
