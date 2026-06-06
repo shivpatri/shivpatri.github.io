@@ -120,6 +120,27 @@ title: Projects
   }
 </style>
 
+## Generative AI Applications
+
+<div class="project-card">
+  <div class="project-thumbnail">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Dante_Alighieri_-_La_Divina_Commedia_Canto_I.jpg" alt="Classic Illustrations Wallpaper App">
+  </div>
+  <div class="project-info">
+    <h3>A macOS wallpaper and widget app for classic literature illustrations.</h3>
+    <div class="project-meta"> Personal Project | 2024 </div>
+    <p>This mac app cycles wallpapers from a curated folder of high-resolution illustrations of popular classics like the Divine Comedy, Paradise Lost, and the Bible. It leverages the Gemini API to analyze the artwork and populate desktop widgets with the illustration's title, context within the related work, and literary commentary.</p>
+    <div class="project-tags">
+      <span class="project-tag">Swift</span>
+      <span class="project-tag">macOS</span>
+      <span class="project-tag">Gemini API</span>
+    </div>
+    <div class="project-badges">
+      <a href="https://github.com/shivpatri" class="project-badge">💻 Code</a>
+    </div> 
+  </div>
+</div>
+
 ## Graph Theory
 
 <div class="project-card">
@@ -193,7 +214,7 @@ title: Projects
   <div class="project-info">
     <h3>Clustering Analysis of Movie Posters</h3>
     <div class="project-meta"> Graduate Coursework | Arizona State University | 2021 </div>
-    <p>An analysis of various clustering algorithms on VGG-16 embeddings of movie posters. The project explores K-Means, DBSCAN, and Hierarchical clustering to group movies by their poster art and uses t-SNE for visualization.</p>
+    <p>An analysis of various clustering algorithms on ResNet-34 embeddings of movie posters. The project explores K-Means, DBSCAN, and Hierarchical clustering to group movies by their poster art and uses t-SNE for visualization.</p>
     <div class="project-tags">
       <span class="project-tag">Python</span>
       <span class="project-tag">Data Science</span>
