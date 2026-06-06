@@ -124,12 +124,12 @@ title: Projects
 
 <div class="project-card">
   <div class="project-thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Dante_Alighieri_-_La_Divina_Commedia_Canto_I.jpg" alt="Classic Illustrations Wallpaper App">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Dante_Alighieri_-_La_Divina_Commedia_Canto_I.jpg" alt="Gustave Doré's illustration of Dante">
   </div>
   <div class="project-info">
     <h3>A macOS wallpaper and widget app for classic literature illustrations.</h3>
     <div class="project-meta"> Personal Project | 2024 </div>
-    <p>This mac app cycles wallpapers from a curated folder of high-resolution illustrations of popular classics like the Divine Comedy, Paradise Lost, and the Bible. It leverages the Gemini API to analyze the artwork and populate desktop widgets with the illustration's title, context within the related work, and literary commentary.</p>
+    <p>This mac app cycles wallpapers of classic literature illustrations. It uses the Gemini API to analyze the artwork and populate desktop widgets with its title, context, and literary commentary.</p>
     <div class="project-tags">
       <span class="project-tag">Swift</span>
       <span class="project-tag">macOS</span>
