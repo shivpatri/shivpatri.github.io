@@ -124,7 +124,7 @@ title: Projects
 
 <div class="project-card">
   <div class="project-thumbnail">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Dante_Alighieri_-_La_Divina_Commedia_Canto_I.jpg" alt="Gustave Doré's illustration of Dante">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dante_Alighieri_portrait_by_Gustave_Doré.jpg?width=500" alt="Portrait of Dante Alighieri by Gustave Doré">
   </div>
   <div class="project-info">
     <h3>A macOS wallpaper and widget app for classic literature illustrations.</h3>
