@@ -137,6 +137,7 @@ title: Projects
     </div>
     <div class="project-badges">
       <a href="https://github.com/shivpatri" class="project-badge">💻 Code</a>
+      <a href="{{ '/_assets/downloads/WallpaperGenius.dmg' | relative_url }}" class="project-badge" download>⬇️ Download</a>
     </div> 
   </div>
 </div>
