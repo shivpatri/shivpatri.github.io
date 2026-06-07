@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Ode to Gustave Doré"
-date:   2024-10-25 10:00:00 -0500
+date:   2026-06-07 10:00:00 -0500
 categories: Product
 ---
 
