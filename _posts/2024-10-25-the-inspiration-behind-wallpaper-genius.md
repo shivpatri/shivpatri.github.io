@@ -12,12 +12,12 @@ One of my most favorite software features is the [Windows Spotlight](https://lea
 
 Another great product is [Google Arts & Culture](https://artsandculture.google.com/). The educational platform partners with over 2000 cultural institutions in 80 countries allowing users to explore high-resolution artworks, historical archives, and interactive exhibits on their mobile devices.
 
-The app is neatly organized into three main navigation tabs to help you browse effectively:
+The mobile app version is neatly organized into three main navigation tabs to help you browse effectively:
 
-Inspire: A personalized feed featuring daily stories, historical articles, and curated virtual exhibits.
+- Inspire: A personalized feed featuring daily stories, historical articles, and curated virtual exhibits.
 
-Play: An interactive hub of playful, camera-based tools. You can use Art Selfie to find historical portraits that match your face, Art Projector to view real-sized masterpieces in your room using AR, or Art Transfer to transform your photos using classic art styles.
+- Play: An interactive hub of playful, camera-based tools. You can use Art Selfie to find historical portraits that match your face, Art Projector to view real-sized masterpieces in your room using AR, or Art Transfer to transform your photos using classic art styles.
 
-Explore: A directory to search through vast archives by artist, time period, or color palette. It also features Street View, offering 360-degree virtual tours of world-class museums and landmarks.
+- Explore: A directory to search through vast archives by artist, time period, or color palette. It also features Street View, offering 360-degree virtual tours of world-class museums and landmarks.
 
 Whether you want to zoom in on the microscopic brushstrokes of Vincent van Gogh or wander through a virtual museum from your living room, the app bridges the gap between technology and history.
