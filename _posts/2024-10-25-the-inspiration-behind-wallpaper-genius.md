@@ -54,4 +54,29 @@ Whenever the background changes, the widget updates to display:
 
 To bring this to life, I built a native Mac app using Xcode. For the dynamic text generation—specifically crafting the context and commentary for each illustration—I integrated the Gemini API. Interestingly, the development process itself was a fun experiment in modern software engineering; I essentially "vibe coded" the entire application with the help of Codex and Gemini, letting AI assist me in seamlessly weaving together the logic and UI.
 
+### How It Works
+
+Here's a look at the application and its settings menu:
+
+<div style="display: flex; gap: 15px; margin: 2rem 0; flex-wrap: wrap;">
+  <figure style="flex: 1; min-width: 300px; text-align: center; margin: 0;">
+    <img src="{{ '/_assets/images/WallpaperGenius.png' | relative_url }}" alt="Wallpaper and widgets" style="max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+    <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.75rem;">The desktop wallpaper alongside the dynamic Gemini-powered widgets.</figcaption>
+  </figure>
+  <figure style="flex: 1; min-width: 300px; text-align: center; margin: 0;">
+    <img src="{{ '/_assets/images/AppUI.png' | relative_url }}" alt="App settings" style="max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+    <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.75rem;">The Wallpaper Genius settings interface.</figcaption>
+  </figure>
+</div>
+
+The app is designed to be very simple to configure. You can use the **"browse folder"** option to point it to your own downloaded collection of illustrations. In the settings, there is a text field to securely input your **Gemini API key**, alongside a dropdown for **model selection** (so you can choose which Gemini model generates the widget text), and customizable controls like **rotation frequency** to dictate how often your desktop background updates.
+
+### Downloads
+
+If you'd like to try it out yourself, I've gathered everything you need below:
+
+- ⬇️ **[Download Wallpaper Genius App (.dmg)]({{ '/_assets/downloads/WallpaperGenius.dmg' | relative_url }})**
+- 🖼️ **[Gustave Doré's La Grande Bible de Tours (.torrent)]({{ '/_assets/downloads/dore_bible.torrent' | relative_url }})**
+- 🖼️ **[Gustave Doré's Paradise Lost Illustrations (.zip)]({{ '/_assets/downloads/paradise_lost.zip' | relative_url }})**
+
 Building Wallpaper Genius has been an incredible way to turn my everyday digital workspace into a personal, rotating museum—a small daily tribute to epic poetry and masterful engraving.
